@@ -6,4 +6,7 @@ public class CartPage {
     // total
     // promo code
 
+    // deals
+    // loans
+
 }
